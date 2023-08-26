@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Heidy Gómez</title>
+</head>
+<body>
+    <div> 
+     <h1>Heidy Gómez</h1>   
+     <fieldset><legend><h2>Contacto</h2></legend>
+              <h3>Email: heidywagomez@hotmail.com</h3>
+              <h3>Telefono: (+504) 9486-5968 <h3>
+              <h3>Ubicación: Tegucigalpa, Honduras </h3>
+              <h3><a href="https://github.com/Heidygo">Github</a></h3> 
+              <h3><a href="https://www.linkedin.com/in/heidy-gómez-996200168">Linkedin</a></h3></fieldset>
+        
+    <fieldset><legend><h2>Experiencia</h2></legend>
+        <h3>CONADEH - Asistente de gerencia de comunicaciones</h3>
+           <ul>
+            <li>Redacción de boletines y comunicados de prensa </li>
+            <li>Monitoreo de medios de comunicación</li>
+            <li>Convocatoria y moderación de conferencias de prensa</li>
+            <li>Maestra de ceremonias de actos públicos</li>
+           </ul> 
+              
+           </fieldset>
+
+        
+        <table>
+            <tr>
+                <th><h2>Habilidades blandas</h2></th>
+                <th><h2>Habilidades Tecnicas</h2></th>
+            </tr>
+            <tr> 
+                <th>Colaboración en equipo</th>
+                <th>GIT</th>
+            </tr>
+            <tr>
+                <th>Capacidad de adapctación</th>
+                <th>HTML</th>            
+            </tr>
+            <tr>
+                <th>Aprendizaje continuo</th>
+                <th>CSS</th>
+            </tr>
+            <tr>
+                <th>Liderazgo</th>
+                <th>Javascrip</th>
+            </tr>
+        </table>
+
+        <br> 
+        <table>
+                <tr><th><h2>Intereses</h2></th></tr>
+                <tr><th>Ciber seguridad</th></tr>
+                <tr><th>Inteligencia Artificial</th></tr>
+                <tr><th>Analisis de datos</th></tr>
+                <tr><th>Diseño</th></tr>
+        </table>
+     <br>
+        <p>Contactame</p>
+        <input type="text" value="Email" />
+     <br>
+     <textarea name="textarea" rows="10" cols="50">Your message</textarea>
+     <br>
+     <button name="button">Contactar</button>
+
+        
+    </div>
+</body>
+</html>
